@@ -1,5 +1,5 @@
 # Hii,👋 I’m Qasim Ali
-💫 About Me:<br>🔭 Currently Building: Full-stack portfolio website with React (Vite), Node.js, and MSSQL.<br>👯 Open to Collaborate On: .NET, React, Node.js, MSSQL, MongoDB, Flutter, and more.<br>🌱 Learning: TypeScript, GraphQL, Docker, advanced Flutter.<br>💬 Ask Me About: JavaScript, React, Node.js, .NET, Flutter, MSSQL, MongoDB, C++.<br>⚡ Fun Fact: I love solving algorithm challenges.<br><br>
+💫 About Me:<br>🔭 Currently Building: Full-stack Islamic website with React (Vite), Node.js, and MSSQL.<br>👯 Open to Collaborate On: .NET, React, Node.js, MSSQL, MongoDB, Flutter, and more.<br>🌱 Learning: TypeScript, GraphQL, Docker, advanced Flutter.<br>💬 Ask Me About: JavaScript, React, Node.js, .NET, Flutter, MSSQL, MongoDB, C++.<br>⚡ Fun Fact: I love solving algorithm challenges.<br><br>
 
 
 
