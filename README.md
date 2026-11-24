@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm Qasim </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&vCenter=true&width=600&lines=Full+stack+developers;I+like+building+things+people+actually+use;Currently+deep+in+React%2C+Node+%26+Postgres" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&vCenter=true&width=600&lines=Full+stack+developer;I+like+building+things+people+actually+use;Currently+deep+in+React%2C+Node+%26+Postgres" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="./assets/hero.svg" alt="Developer at a desk" width="100%"/>
