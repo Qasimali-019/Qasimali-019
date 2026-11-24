@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, I'm Qasim <img src="https://media.githubusercontent.com/media/microsoft/fluentui-emoji/main/assets/Waving%20hand/Default/3D/waving_hand_3d_default.png" width="32"/></h1>
+<h1 align="left">Hey there, I'm Qasim </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&vCenter=true&width=600&lines=Full+stack+developer+from+Islamabad;I+like+building+things+people+actually+use;Currently+deep+in+React%2C+Node+%26+Postgres" alt="Typing SVG" /></a>
 
@@ -8,11 +8,11 @@
 
 I build full stack web apps, mostly with **React, Next.js, Node.js and PostgreSQL**. I enjoy the parts that don't show up in screenshots: auth, permissions, real-time sync and making slow queries fast.
 
-- 🔭 Working on **Siratal Mustaqeem**, an Islamic learning platform with a protected reader app and live community chat
-- 🎟️ Building **Ticket Ledger** with my team, an event ticketing app with seat maps and Redis seat locks
-- 🌱 Learning **GraphQL** and **system design**
-- 💬 Ask me about **React, Node.js, PostgreSQL, Socket.IO**
-- ⚡ Fun fact: I once took a checkout flow from 20 seconds down to 2 by hunting N+1 queries
+-  Working on **Siratal Mustaqeem**, an Islamic learning platform with a protected reader app and live community chat
+-  Building **Ticket Ledger** with my team, an event ticketing app with seat maps and Redis seat locks
+-  Learning **GraphQL** and **system design**
+-  Ask me about **React, Node.js, PostgreSQL, Socket.IO**
+-  Fun fact: I once took a checkout flow from 20 seconds down to 2 by hunting N+1 queries
 
 ---
 
